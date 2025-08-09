@@ -19,14 +19,3 @@ Este projeto funciona como um portfólio minimalista para demonstrar conceitos d
    ```
    java -cp out br.com.dio.Main
    ```
-
-**Melhorias possíveis**
-- Persistência com arquivo/BD (SQLite/Postgres)
-- API REST com Spring Boot
-- Interface web (React / Figma + link)
-- Testes unitários (JUnit)
-
-**Autor**
-- Nome: _Seu Nome Aqui_ (substitua antes de entregar)
-- LinkedIn: _seu-link-aqui_
-
